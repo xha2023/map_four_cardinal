@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12b4b8af-57fd-4fd6-a28f-ee947598f816" name="변경" comment="JS added" />
+    <list default="true" id="12b4b8af-57fd-4fd6-a28f-ee947598f816" name="변경" comment="tumbnail added">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local/North Gyeongsang.html" beforeDir="false" afterPath="$PROJECT_DIR$/local/North Gyeongsang.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/썸네일/KEC 지회.png" beforeDir="false" afterPath="$PROJECT_DIR$/thumbnail/KEC 지회.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/썸네일/거제통영고성조선하청지회.png" beforeDir="false" afterPath="$PROJECT_DIR$/thumbnail/거제통영고성조선하청지회.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/썸네일/구미 옵티칼 고공농성.png" beforeDir="false" afterPath="$PROJECT_DIR$/thumbnail/구미 옵티칼 고공농성.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/썸네일/성서공단지회 태경위원회.png" beforeDir="false" afterPath="$PROJECT_DIR$/thumbnail/성서공단지회 태경위원회.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/썸네일/씨스포빌 지회.png" beforeDir="false" afterPath="$PROJECT_DIR$/thumbnail/씨스포빌 지회.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/썸네일/중구청 공무직 지회.png" beforeDir="false" afterPath="$PROJECT_DIR$/thumbnail/중구청 공무직 지회.png" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +43,7 @@
   }
 }</component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -61,7 +70,7 @@
     &quot;JavaScript 디버그.예시.html.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/sm-pc/Desktop/전국투쟁지도&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/sm-pc/Desktop/전국투쟁지도/local&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -73,6 +82,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sm-pc\Desktop\전국투쟁지도\local" />
       <recent name="C:\Users\sm-pc\Desktop\전국투쟁지도" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -96,7 +106,7 @@
       <updated>1737826142552</updated>
       <workItem from="1737826144162" duration="2518000" />
       <workItem from="1737872848256" duration="631000" />
-      <workItem from="1738335922044" duration="12582000" />
+      <workItem from="1738335922044" duration="13048000" />
     </task>
     <task id="LOCAL-00001" summary="commit again">
       <option name="closed" value="true" />
@@ -138,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738349504855</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="tumbnail added">
+      <option name="closed" value="true" />
+      <created>1738350148866</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1738350148866</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,6 +167,7 @@
     <MESSAGE value="deleted one" />
     <MESSAGE value="logo added version" />
     <MESSAGE value="JS added" />
-    <option name="LAST_COMMIT_MESSAGE" value="JS added" />
+    <MESSAGE value="tumbnail added" />
+    <option name="LAST_COMMIT_MESSAGE" value="tumbnail added" />
   </component>
 </project>
