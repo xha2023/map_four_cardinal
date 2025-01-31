@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12b4b8af-57fd-4fd6-a28f-ee947598f816" name="변경" comment="deleted one">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="12b4b8af-57fd-4fd6-a28f-ee947598f816" name="변경" comment="logo added version">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -99,7 +98,7 @@
       <updated>1737826142552</updated>
       <workItem from="1737826144162" duration="2518000" />
       <workItem from="1737872848256" duration="631000" />
-      <workItem from="1738335922044" duration="11633000" />
+      <workItem from="1738335922044" duration="11934000" />
     </task>
     <task id="LOCAL-00001" summary="commit again">
       <option name="closed" value="true" />
@@ -117,7 +116,23 @@
       <option name="project" value="LOCAL" />
       <updated>1738348730940</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="logo added version">
+      <option name="closed" value="true" />
+      <created>1738348953196</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1738348953196</updated>
+    </task>
+    <task id="LOCAL-00004" summary="logo added version">
+      <option name="closed" value="true" />
+      <created>1738349020451</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1738349020451</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,6 +141,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit again" />
     <MESSAGE value="deleted one" />
-    <option name="LAST_COMMIT_MESSAGE" value="deleted one" />
+    <MESSAGE value="logo added version" />
+    <option name="LAST_COMMIT_MESSAGE" value="logo added version" />
   </component>
 </project>

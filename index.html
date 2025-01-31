@@ -146,5 +146,30 @@
         </g>
     </svg>
 </div>
+<script>
+    document.querySelectorAll('.clickable-area').forEach(area => {
+        area.addEventListener('click', function(event) {
+            event.preventDefault(); // 기본 클릭 동작 방지
+            const targetUrl = this.parentElement.getAttribute('href');
+
+            // 부드러운 전환 효과
+            document.body.style.transition = 'opacity 0.5s';
+            document.body.style.opacity = '0';
+
+            setTimeout(() => {
+                window.location.href = targetUrl;
+            }, 500); // 0.5초 후에 페이지 이동
+        });
+
+        area.addEventListener('mouseover', function() {
+            this.style.fill = '#ffcccb'; // 호버 시 색상 변경
+        });
+
+        area.addEventListener('mouseout', function() {
+            this.style.fill = '#ced4da'; // 마우스 아웃 시 색상 복원
+        });
+    });
+
+</script>
 </body>
 </html>
