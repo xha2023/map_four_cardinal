@@ -6,13 +6,16 @@
   <component name="ChangeListManager">
     <list default="true" id="12b4b8af-57fd-4fd6-a28f-ee947598f816" name="변경" comment="tumbnail added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local/Daegu.html" beforeDir="false" afterPath="$PROJECT_DIR$/local/Daegu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local/Gangwon.html" beforeDir="false" afterPath="$PROJECT_DIR$/local/Gangwon.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/local/North Gyeongsang.html" beforeDir="false" afterPath="$PROJECT_DIR$/local/North Gyeongsang.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/썸네일/KEC 지회.png" beforeDir="false" afterPath="$PROJECT_DIR$/thumbnail/KEC 지회.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/썸네일/거제통영고성조선하청지회.png" beforeDir="false" afterPath="$PROJECT_DIR$/thumbnail/거제통영고성조선하청지회.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/썸네일/구미 옵티칼 고공농성.png" beforeDir="false" afterPath="$PROJECT_DIR$/thumbnail/구미 옵티칼 고공농성.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/썸네일/성서공단지회 태경위원회.png" beforeDir="false" afterPath="$PROJECT_DIR$/thumbnail/성서공단지회 태경위원회.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/썸네일/씨스포빌 지회.png" beforeDir="false" afterPath="$PROJECT_DIR$/thumbnail/씨스포빌 지회.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/썸네일/중구청 공무직 지회.png" beforeDir="false" afterPath="$PROJECT_DIR$/thumbnail/중구청 공무직 지회.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local/South Gyeongsang.html" beforeDir="false" afterPath="$PROJECT_DIR$/local/South Gyeongsang.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thumbnail/KEC 지회.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thumbnail/거제통영고성조선하청지회.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thumbnail/구미옵티칼고공농성.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thumbnail/성서공단지회 태경위원회.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thumbnail/씨스포빌 지회.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thumbnail/중구청 공무직 지회.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,34 +57,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;JavaScript 디버그.Daegu.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript 디버그.Daejeon.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript 디버그.Gangwon.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript 디버그.Gwangju.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript 디버그.North Gyeongsang.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript 디버그.Ulsan.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript 디버그.busan.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript 디버그.choose_location.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript 디버그.index.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript 디버그.index_n.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript 디버그.예시.html.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/sm-pc/Desktop/전국투쟁지도/local&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.qodana&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript 디버그.Daegu.html.executor": "Run",
+    "JavaScript 디버그.Daejeon.html.executor": "Run",
+    "JavaScript 디버그.Gangwon.html.executor": "Run",
+    "JavaScript 디버그.Gwangju.html.executor": "Run",
+    "JavaScript 디버그.North Gyeongsang.html.executor": "Run",
+    "JavaScript 디버그.South Gyeongsang.html.executor": "Run",
+    "JavaScript 디버그.Ulsan.html.executor": "Run",
+    "JavaScript 디버그.busan.html.executor": "Run",
+    "JavaScript 디버그.choose_location.html.executor": "Run",
+    "JavaScript 디버그.index.html.executor": "Run",
+    "JavaScript 디버그.index_n.html.executor": "Run",
+    "JavaScript 디버그.예시.html.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/sm-pc/Desktop/전국투쟁지도/local/thumbnail",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.qodana",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sm-pc\Desktop\전국투쟁지도\local\thumbnail" />
       <recent name="C:\Users\sm-pc\Desktop\전국투쟁지도\local" />
       <recent name="C:\Users\sm-pc\Desktop\전국투쟁지도" />
     </key>
@@ -107,6 +113,7 @@
       <workItem from="1737826144162" duration="2518000" />
       <workItem from="1737872848256" duration="631000" />
       <workItem from="1738335922044" duration="13048000" />
+      <workItem from="1738351142179" duration="839000" />
     </task>
     <task id="LOCAL-00001" summary="commit again">
       <option name="closed" value="true" />
@@ -156,7 +163,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738350148866</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="tumbnail added">
+      <option name="closed" value="true" />
+      <created>1738351252439</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1738351252439</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
