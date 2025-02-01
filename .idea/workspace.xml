@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12b4b8af-57fd-4fd6-a28f-ee947598f816" name="변경" comment="seoul several page">
-      <change beforePath="$PROJECT_DIR$/seoul_local/양천구.html" beforeDir="false" afterPath="$PROJECT_DIR$/seoul_local/양천구.html" afterDir="false" />
+    <list default="true" id="12b4b8af-57fd-4fd6-a28f-ee947598f816" name="변경" comment="final">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +67,7 @@
     "JavaScript 디버그.강남구.html.executor": "Run",
     "JavaScript 디버그.양천구.html.executor": "Run",
     "JavaScript 디버그.예시.html.executor": "Run",
+    "JavaScript 디버그.중구.html.executor": "Run",
     "JavaScript 디버그.중랑구.html.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -88,6 +89,7 @@
       <recent name="C:\Users\sm-pc\Desktop\전국투쟁지도" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sm-pc\Desktop\전국투쟁지도\seoul_local\thumbnail" />
       <recent name="C:\Users\sm-pc\Desktop\전국투쟁지도" />
     </key>
   </component>
@@ -109,7 +111,7 @@
       <workItem from="1737826144162" duration="2518000" />
       <workItem from="1737872848256" duration="631000" />
       <workItem from="1738335922044" duration="13048000" />
-      <workItem from="1738351142179" duration="6908000" />
+      <workItem from="1738351142179" duration="7561000" />
     </task>
     <task id="LOCAL-00001" summary="commit again">
       <option name="closed" value="true" />
@@ -199,7 +201,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738374205960</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="final">
+      <option name="closed" value="true" />
+      <created>1738374592012</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1738374592013</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,6 +224,7 @@
     <MESSAGE value="botton added seoul start" />
     <MESSAGE value="seoul main end and add several pages" />
     <MESSAGE value="seoul several page" />
-    <option name="LAST_COMMIT_MESSAGE" value="seoul several page" />
+    <MESSAGE value="final" />
+    <option name="LAST_COMMIT_MESSAGE" value="final" />
   </component>
 </project>

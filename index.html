@@ -170,6 +170,13 @@
         });
     });
 
+    // 페이지가 다시 로드될 때 새로고침
+    window.onpageshow = function(event) {
+        if (event.persisted) {
+            window.location.reload();
+        }
+    };
 </script>
+
 </body>
 </html>
