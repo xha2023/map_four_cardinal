@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12b4b8af-57fd-4fd6-a28f-ee947598f816" name="변경" comment="final">
+    <list default="true" id="12b4b8af-57fd-4fd6-a28f-ee947598f816" name="변경" comment="새로고침 추가">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local/Daegu.html" beforeDir="false" afterPath="$PROJECT_DIR$/local/Daegu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local/Gangwon.html" beforeDir="false" afterPath="$PROJECT_DIR$/local/Gangwon.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local/North Gyeongsang.html" beforeDir="false" afterPath="$PROJECT_DIR$/local/North Gyeongsang.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seoul_local/중구.html" beforeDir="false" afterPath="$PROJECT_DIR$/seoul_local/중구.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +115,7 @@
       <workItem from="1737826144162" duration="2518000" />
       <workItem from="1737872848256" duration="631000" />
       <workItem from="1738335922044" duration="13048000" />
-      <workItem from="1738351142179" duration="7561000" />
+      <workItem from="1738351142179" duration="9527000" />
     </task>
     <task id="LOCAL-00001" summary="commit again">
       <option name="closed" value="true" />
@@ -209,7 +213,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738374592013</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="새로고침 추가">
+      <option name="closed" value="true" />
+      <created>1738374970760</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1738374970761</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -225,6 +237,7 @@
     <MESSAGE value="seoul main end and add several pages" />
     <MESSAGE value="seoul several page" />
     <MESSAGE value="final" />
-    <option name="LAST_COMMIT_MESSAGE" value="final" />
+    <MESSAGE value="새로고침 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="새로고침 추가" />
   </component>
 </project>
